@@ -4,8 +4,7 @@ MoHFW has uploaded a [document](https://www.mohfw.gov.in/pdf/FAQ.pdf) regarding 
 
 ### Check your risk score: [CovidProb- Covid Probability Estimator](https://covidpred.herokuapp.com/) ▶
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/iSumitBanik/COVID19-Probability-Estimator/graphs/commit-activity) ![GitHub language count](https://img.shields.io/github/languages/count/iSumitBanik/COVID19-Probability-Estimator) ![GitHub repo size](https://img.shields.io/github/repo-size/iSumitBanik/COVID19-Probability-Estimator)
-
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/iSumitBanik/COVID19-Probability-Estimator/graphs/commit-activity)
 ### 🚀 WebApp 
 ![](https://raw.githubusercontent.com/iSumitBanik/COVID19-Probability-Estimator/master/static/img/1.png) <br>
 ![](https://raw.githubusercontent.com/iSumitBanik/COVID19-Probability-Estimator/master/static/img/2.png)
